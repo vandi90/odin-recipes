@@ -1,1 +1,3 @@
 # odin-recipes
+
+This is a repository of code that is created by learning from the Odin project...
